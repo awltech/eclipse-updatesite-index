@@ -1,0 +1,47 @@
+= Welcome to the WLTech Eclipse Update Site !
+
+The following page describes the Eclipse components that are built by the WLTech community.
+
+For each of them, you will find a short description and links that  head to the projects Update Sites.
+Some are nightly (binaries built on a nightly basis, through Continuous Integration), and some are stable and production-ready deliverables. 
+
+So make your choice! Happy browsing!
+
+''''
+== Products
+=== Webtools for Tapestry
+Webtools for Tapestry is an Eclipse componnent to assist the development on Apache Tapestry based web applications.
+It comes with wizards to create resources (projects, pages and components), 
+a multitab editor to switch easily between the templates and their source code
+and autocompletion in TML editor for any component and mixin you have in your classpath.
+
+The latest released version is *1.2.1*
+
+* *Documentation:* https://github.com/awltech/webtools-tapestry/wiki/_pages[https://github.com/awltech/webtools-tapestry/wiki/_pages]
+
+* *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/webtools-tapestry[http://eclipse.worldline.com/releases/kepler/webtools-tapestry]
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/webtools-tapestry[http://eclipse.worldline.com/nightly/webtools-tapestry]
+
+=== ParallelJ Studio
+ParallelJ Studio is a modelling tool. It comes on top of ParallelJ (http://www.parallelj.org) and proposes batch/dataflow modelling
+and code generation on top of such models, as per a model driven approach. Also, for people who prefer to handle the source code directly
+ParallelJ comes with Source Code live validation and auto completion to increase the batch development productivity.
+
+The latest released version is *1.3.0*
+
+* *Documentation:* http://www.parallelj.org/xwiki/[http://www.parallelj.org/xwiki/]
+
+* *Releases Update Site:* http://www.parallelj.org/repository/eclipse/latest/[http://www.parallelj.org/repository/eclipse/latest/]
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/parallelj-studio[http://eclipse.worldline.com/nightly/parallelj-studio]
+
+=== I18NTools
+== Frameworks
+=== Application Profiles
+=== AST Validation Framework
+=== CLiC
+=== GMF Properties Views Framework
+=== Mylyn Notification Framework
+=== Optimus
+=== Resource Selector
+
+''''
