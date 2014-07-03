@@ -29,7 +29,7 @@ Some are nightly (binaries built on a nightly basis, through Continuous Integrat
 So make your choice! Happy browsing!
 
 ''''
-== Table of Contents
+== Contents
 
 === Products
 |===
@@ -38,14 +38,13 @@ So make your choice! Happy browsing!
 === Frameworks
 |===
 |<<anchor-appprofiles, Application Profiles Framework>>|<<anchor-astvalidation, AST Validation Framework>>|<<anchor-clic, CLiC>>
-|<<anchor-gmfproperties, GMF Properties Framework>>|<<anchor-mylynnotifs, AST Validation Framework>>|<<anchor-optimus, Optimus Framework>>
+|<<anchor-gmfproperties, GMF Properties Framework>>|<<anchor-mylynnotifs, Mylyn Notifications Framework>>|<<anchor-optimus, Optimus Framework>>
 |<<anchor-resourceselector, Resource Selector Framework>>||
 |===
 ''''
 
-== Details and links
 [[anchor-webtools]]
-=== Webtools for Tapestry
+== Webtools for Tapestry
 Webtools for Tapestry is an Eclipse componnent to assist the development on Apache Tapestry based web applications.
 It comes with wizards to create resources (projects, pages and components), 
 a multitab editor to switch easily between the templates and their source code
@@ -58,8 +57,9 @@ The latest released version is *{webtoolsversion}* on *{webtoolsdate}*
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/webtools-tapestry[http://eclipse.worldline.com/releases/kepler/webtools-tapestry]
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/webtools-tapestry[http://eclipse.worldline.com/nightly/webtools-tapestry]
 
+''''
 [[anchor-paralleljstudio]]
-=== ParallelJ Studio
+== ParallelJ Studio
 ParallelJ Studio is a modelling tool. It comes on top of ParallelJ (http://www.parallelj.org) and proposes batch/dataflow modelling
 and code generation on top of such models, as per a model driven approach. Also, for people who prefer to handle the source code directly
 ParallelJ comes with Source Code live validation and auto completion to increase the batch development productivity.
@@ -71,8 +71,9 @@ The latest released version is *{paralleljversion}* on *{paralleljdate}*
 * *Releases Update Site:* http://www.parallelj.org/repository/eclipse/latest/[http://www.parallelj.org/repository/eclipse/latest/]
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/parallelj-studio[http://eclipse.worldline.com/nightly/parallelj-studio]
 
+''''
 [[anchor-i18ntools]]
-=== I18NTools
+== I18NTools
 I18NTools is an tool that helps with internationalizing your applications. It proposes the application of an pure java 
 internationalization method, through the usage of Java Enumerations, thanks to source code refactoring and
 an editor for easier translation management.
@@ -85,9 +86,8 @@ The latest released version is *{i18ntoolsversion}* on *{i18ntoolsdate}*
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/i18ntools[http://eclipse.worldline.com/nightly/i18ntools]
 
 ''''
-== Frameworks
 [[anchor-appprofiles]]
-=== Application Profiles
+== Application Profiles
 Application Profiles is a extensible framework that eases the creation of dynamized multi-projects applications.
 
 The latest released version is *{applicationprofilesversion}* on *{applicationprofilesdate}*
@@ -97,8 +97,9 @@ The latest released version is *{applicationprofilesversion}* on *{applicationpr
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/appprofiles[http://eclipse.worldline.com/releases/kepler/appprofiles]
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/appprofiles[http://eclipse.worldline.com/nightly/appprofiles]
 
+''''
 [[anchor-astvalidation]]
-=== AST Validation Framework
+== AST Validation Framework
 
 AST Validation Framework is a tool that takes the best of the AST API and the Eclipse workbench mechanisms, to propose an 
 extension-point based validation framework.
@@ -110,15 +111,16 @@ The latest released version is *{astvalidationversion}* on *{astvalidationdate}*
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/jdt-ast-validation[http://eclipse.worldline.com/releases/kepler/jdt-ast-validation]
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/jdt-ast-validation[http://eclipse.worldline.com/nightly/jdt-ast-validation]
 
+''''
 [[anchor-clic]]
-=== CLiC
+== CLiC
 [[anchor-gmfproperties]]
-=== GMF Properties Views Framework
+== GMF Properties Views Framework
 [[anchor-mylynnotifs]]
-=== Mylyn Notification Framework
+== Mylyn Notification Framework
 [[anchor-optimus]]
-=== Optimus
+== Optimus
 [[anchor-resourceselector]]
-=== Resource Selector
+== Resource Selector
 
 ''''
