@@ -19,8 +19,9 @@
 :WebTools Version: 1.2.1
 :WebTools Date: Feb 17, 2014
 
-= Welcome to the WLTech Eclipse Update Site !
-
+|===
+|image:../resources/images/WLTechLogo.png[height=256]|image:../resources/images/Banner.png[height=256]
+|===
 The following page describes the Eclipse components that are built by the WLTech community.
 
 For each of them, you will find a short description and links that  head to the projects Update Sites.

@@ -1,10 +1,10 @@
 
 
 body {
-  margin: 20px;
+  margin: 5px;
   text-align: left;
   font-family: verdana, arial, sans-serif;
-  font-size: 1.0em;
+  font-size: 0.75em;
   color: #333;
   background-color: #EEE;
 }
@@ -20,40 +20,44 @@ h1 {
   color: #0066A1;
 }
 
-
-
 h2 {
   clear: both;
   padding: 0 0 0 0;
-  margin: 0 0 -10px 0;  
-  font-size: 1.0em;
+  margin: 0 0 10px 0;  
+  font-size: 1.5em;
   font-weight: normal;
   text-transform: uppercase;
-  color: #56B600;
+  color: #0066A1;
+}
+
+h3 {
+  clear: both;
+  padding: 0 0 0 0;
+  margin: 0 0 10px 0;  
+  font-size: 1.0em;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0066A1;
 }
 
 p {
-  line-height: 25px;
+  line-height: 15px;
   padding: 8px 0 8px 5px;
   margin: 5px 0 5px 0;
 }
 
-p:first-letter {
-  font-size: 1.2em;
-}
-
 a {
-  color: #56B600;
+  color: #0066A1;
 }
 
 a:hover {
-  color: #326901;
+  color: #0066A1;
   background-color: #DDD;
 }
 
 ul, ol {  
-  padding-bottom: 8px;
-  line-height: 20px;
+  padding-bottom: 0px;
+  line-height: 15px;
 }
 
 
@@ -121,7 +125,7 @@ ul.links li a:hover span.bottom {
 .date {
   display: block;
   text-transform: uppercase;
-  color: #56B600;
+  color: #0066A1;
 }
 
 
