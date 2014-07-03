@@ -3,21 +3,21 @@
 :I18NTools Version: 1.1.0
 :ApplicationProfiles Version: 1.0.0
 :Optimus Version: 1.0.0
-:Clic Version: ?
-:GMFProperties Version: ?
-:MylynNotif Version: ?
-:ResourceSelector Version: ?
+:Clic Version: 0.1.0
+:GMFProperties Version: 1.0.0
+:MylynNotif Version: 1.0.0
+:ResourceSelector Version: 1.0.0
 :ASTValidation Version: 1.1.1
-:WebTools Date: ?
-:ParallelJ Date: ?
-:I18NTools Date: ?
-:ApplicationProfiles Date: ?
-:Optimus Date: ?
-:Clic Date: ?
-:GMFProperties Date: ?
-:MylynNotif Date: ?
-:ResourceSelector Date: ?
-:ASTValidation Date: ?
+:WebTools Date: Feb 17, 2014
+:ParallelJ Date: Oct 29, 2013
+:I18NTools Date: May 21, 2014
+:ApplicationProfiles Date: Oct 17, 2013
+:Optimus Date: Oct 08, 2013
+:Clic Date: Nov 14, 2013
+:GMFProperties Date: Oct 08, 2013
+:MylynNotif Date: Oct 08, 2013
+:ResourceSelector Date: Oct 08, 2013
+:ASTValidation Date: Feb 25, 2014
 
 = Welcome to the WLTech Eclipse Update Site !
 
