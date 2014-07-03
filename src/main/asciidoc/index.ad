@@ -1,3 +1,24 @@
+:WebTools Version: 1.2.1
+:ParallelJ Version: 1.3.0
+:I18NTools Version: 1.1.0
+:ApplicationProfiles Version: 1.0.0
+:Optimus Version: 1.0.0
+:Clic Version: ?
+:GMFProperties Version: ?
+:MylynNotif Version: ?
+:Resource Selector: ?
+:ASTValidation Version: 1.1.1
+:WebTools Date: ?
+:ParallelJ Date: ?
+:I18NTools Date: ?
+:ApplicationProfiles Date: ?
+:Optimus Date: ?
+:Clic Date: ?
+:GMFProperties Date: ?
+:MylynNotif Date: ?
+:Resource Selector: ?
+:ASTValidation Date: ?
+
 = Welcome to the WLTech Eclipse Update Site !
 
 The following page describes the Eclipse components that are built by the WLTech community.
@@ -8,40 +29,96 @@ Some are nightly (binaries built on a nightly basis, through Continuous Integrat
 So make your choice! Happy browsing!
 
 ''''
-== Products
+== Table of Contents
+
+=== Products
+|===
+|<<anchor-webtools, Webtools for Tapestry>>|<<anchor-paralleljstudio, ParallelJ Studio>>|<<anchor-i18ntools, I18N Tools>>
+|===
+=== Frameworks
+|===
+|<<anchor-appprofiles, Application Profiles Framework>>|<<anchor-astvalidation, AST Validation Framework>>|<<anchor-clic, CLiC>>
+|<<anchor-gmfproperties, GMF Properties Framework>>|<<anchor-mylynnotifs, AST Validation Framework>>|<<anchor-optimus, Optimus Framework>>
+|<<anchor-resourceselector, Resource Selector Framework>>||
+|===
+''''
+
+== Details and links
+[[anchor-webtools]]
 === Webtools for Tapestry
 Webtools for Tapestry is an Eclipse componnent to assist the development on Apache Tapestry based web applications.
 It comes with wizards to create resources (projects, pages and components), 
 a multitab editor to switch easily between the templates and their source code
 and autocompletion in TML editor for any component and mixin you have in your classpath.
 
-The latest released version is *1.2.1*
+The latest released version is *{webtoolsversion}* on *{webtoolsdate}*
 
 * *Documentation:* https://github.com/awltech/webtools-tapestry/wiki/_pages[https://github.com/awltech/webtools-tapestry/wiki/_pages]
 
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/webtools-tapestry[http://eclipse.worldline.com/releases/kepler/webtools-tapestry]
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/webtools-tapestry[http://eclipse.worldline.com/nightly/webtools-tapestry]
 
+[[anchor-paralleljstudio]]
 === ParallelJ Studio
 ParallelJ Studio is a modelling tool. It comes on top of ParallelJ (http://www.parallelj.org) and proposes batch/dataflow modelling
 and code generation on top of such models, as per a model driven approach. Also, for people who prefer to handle the source code directly
 ParallelJ comes with Source Code live validation and auto completion to increase the batch development productivity.
 
-The latest released version is *1.3.0*
+The latest released version is *{paralleljversion}* on *{paralleljdate}*
 
 * *Documentation:* http://www.parallelj.org/xwiki/[http://www.parallelj.org/xwiki/]
 
 * *Releases Update Site:* http://www.parallelj.org/repository/eclipse/latest/[http://www.parallelj.org/repository/eclipse/latest/]
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/parallelj-studio[http://eclipse.worldline.com/nightly/parallelj-studio]
 
+[[anchor-i18ntools]]
 === I18NTools
+I18NTools is an tool that helps with internationalizing your applications. It proposes the application of an pure java 
+internationalization method, through the usage of Java Enumerations, thanks to source code refactoring and
+an editor for easier translation management.
+
+The latest released version is *{i18ntoolsversion}* on *{i18ntoolsdate}*
+
+* *Documentation:* http://github.com/awltech/eclipse-i18ntools/wiki[http://github.com/awltech/eclipse-i18ntools/wiki]
+
+* *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/i18ntools/1.1.0[http://eclipse.worldline.com/releases/kepler/i18ntools/1.1.0]
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/i18ntools[http://eclipse.worldline.com/nightly/i18ntools]
+
+''''
 == Frameworks
+[[anchor-appprofiles]]
 === Application Profiles
+Application Profiles is a extensible framework that eases the creation of dynamized multi-projects applications.
+
+The latest released version is *{applicationprofilesversion}* on *{applicationprofilesdate}*
+
+* *Documentation:* https://github.com/awltech/eclipse-appprofiles/wiki/_pages[https://github.com/awltech/eclipse-appprofiles/wiki/_pages]
+
+* *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/appprofiles[http://eclipse.worldline.com/releases/kepler/appprofiles]
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/appprofiles[http://eclipse.worldline.com/nightly/appprofiles]
+
+[[anchor-astvalidation]]
 === AST Validation Framework
+
+AST Validation Framework is a tool that takes the best of the AST API and the Eclipse workbench mechanisms, to propose an 
+extension-point based validation framework.
+
+The latest released version is *{astvalidationversion}* on *{astvalidationdate}*
+
+* *Documentation:* https://github.com/awltech/eclipse-ast-validation/wiki/Quick-Start-Guide[https://github.com/awltech/eclipse-ast-validation/wiki/Quick-Start-Guide]
+
+* *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/jdt-ast-validation[http://eclipse.worldline.com/releases/kepler/jdt-ast-validation]
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/jdt-ast-validation[http://eclipse.worldline.com/nightly/jdt-ast-validation]
+
+[[anchor-clic]]
 === CLiC
+[[anchor-gmfproperties]]
 === GMF Properties Views Framework
+[[anchor-mylynnotifs]]
 === Mylyn Notification Framework
+[[anchor-optimus]]
 === Optimus
+[[anchor-resourceselector]]
 === Resource Selector
 
 ''''
