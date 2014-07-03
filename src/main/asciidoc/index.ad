@@ -6,7 +6,7 @@
 :Clic Version: ?
 :GMFProperties Version: ?
 :MylynNotif Version: ?
-:Resource Selector: ?
+:ResourceSelector Version: ?
 :ASTValidation Version: 1.1.1
 :WebTools Date: ?
 :ParallelJ Date: ?
@@ -16,7 +16,7 @@
 :Clic Date: ?
 :GMFProperties Date: ?
 :MylynNotif Date: ?
-:Resource Selector: ?
+:ResourceSelector Date: ?
 :ASTValidation Date: ?
 
 = Welcome to the WLTech Eclipse Update Site !
@@ -114,13 +114,66 @@ The latest released version is *{astvalidationversion}* on *{astvalidationdate}*
 ''''
 [[anchor-clic]]
 == CLiC
+CLiC is a extensible framework for Command Line Interpretation in Eclipse
+
+The latest released version is *{clicversion}* on *{clicdate}*
+
+* *Documentation:* http://awltech.github.io/clic/getting-started.html[http://awltech.github.io/clic/getting-started.html]
+
+* *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/clic[http://eclipse.worldline.com/releases/kepler/clic]
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/clic[http://eclipse.worldline.com/nightly/clic]
+
+''''
 [[anchor-gmfproperties]]
 == GMF Properties Views Framework
+This framework contains API and implementation to helps with management of GMF-based diagrams' properties views design, implementation
+and refreshment.
+
+The latest released version is *{gmfpropertiesversion}* on *{gmfpropertiesdate}*
+
+* *Documentation:* https://github.com/awltech/GMFPropertiesViews/wiki[https://github.com/awltech/GMFPropertiesViews/wiki]
+
+* *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/gmf-propertiesviews[http://eclipse.worldline.com/releases/kepler/gmf-propertiesviews]
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/gmf-propertiesviews[http://eclipse.worldline.com/nightly/gmf-propertiesviews]
+
+''''
 [[anchor-mylynnotifs]]
 == Mylyn Notification Framework
+
+This framework is the externalization of the notification framework that is implemented in Mylyn, to be useable in a standalone context.
+
+The latest released version is *{mylynnotifversion}* on *{mylynnotifdate}*
+
+* *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/mylyn-notifications[http://eclipse.worldline.com/releases/kepler/mylyn-notifications]
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/mylyn-notifications[http://eclipse.worldline.com/nightly/mylyn-notifications]
+
+''''
 [[anchor-optimus]]
 == Optimus
+Optimus is an agile Transformation Framework. It proposes a new way to handle EMF-based model transformations,
+using requirements instead of predefined workflows. It also comes natively with a strong java generator,
+to provide a ready-to-use framework for developing code generators
+
+The latest released version is *{optimusversion}* on *{optimusdate}*
+
+* *Documentation:* https://github.com/awltech/eclipse-optimus/wiki[https://github.com/awltech/eclipse-optimus/wiki]
+
+* *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/optimus[http://eclipse.worldline.com/releases/kepler/optimus]
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/optimus[http://eclipse.worldline.com/nightly/optimus]
+
+''''
 [[anchor-resourceselector]]
 == Resource Selector
+The Resource Selector is an extensible module that offers the possibility to select, 
+through a user dialog box, any kind of resource from an Eclipse Project. It was initially used to display in the same dialog, 
+all types from a projects classpath as well as all the UML types from uml models located in the same project. (Implementation is
+available as a sample of the project.) 
+
+The latest released version is *{resourceselectorversion}* on *{resourceselectordate}*
+
+* *Documentation:* https://github.com/awltech/ResourceSelector/wiki[https://github.com/awltech/ResourceSelector/wiki]
+
+* *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/resourceselector[http://eclipse.worldline.com/releases/kepler/resourceselector]
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/resourceselector[http://eclipse.worldline.com/nightly/resourceselector]
 
 ''''
