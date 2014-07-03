@@ -24,6 +24,8 @@
 					</execution>
 				</executions>
 				<configuration>
+				<outputDirectory>src/main/asciidoc</outputDirectory>
+				<outputDirectory>target/generated-docs</outputDirectory>
 					<backend>html</backend>
 					<attributes>
 						<stylesheet>screen.css</stylesheet>
