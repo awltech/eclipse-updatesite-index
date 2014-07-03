@@ -24,11 +24,11 @@
 					</execution>
 				</executions>
 				<configuration>
-				<outputDirectory>src/main/asciidoc</outputDirectory>
-				<outputDirectory>generated-docs</outputDirectory>
+				<sourceDirectory>asciidocs</sourceDirectory>
+				<outputDirectory>html</outputDirectory>
 					<backend>html</backend>
 					<attributes>
-						<stylesheet>screen.css</stylesheet>
+						<stylesheet>../resources/css/screen.css</stylesheet>
 					</attributes>
 				</configuration>
 			</plugin>
