@@ -46,11 +46,14 @@ So make your choice! Happy browsing!
 
 [[anchor-webtools]]
 == Webtools for Tapestry
-Webtools for Tapestry is an Eclipse componnent to assist the development on Apache Tapestry based web applications.
+[cols="a,8a"]
+|===
+|image:../resources/images/tapestry.png[height=64]
+|Webtools for Tapestry is an Eclipse componnent to assist the development on Apache Tapestry based web applications.
 It comes with wizards to create resources (projects, pages and components), 
 a multitab editor to switch easily between the templates and their source code
 and autocompletion in TML editor for any component and mixin you have in your classpath.
-
+|===
 The latest released version is *{webtoolsversion}* on *{webtoolsdate}*
 
 * *Documentation:* https://github.com/awltech/webtools-tapestry/wiki/_pages[https://github.com/awltech/webtools-tapestry/wiki/_pages]
@@ -61,10 +64,13 @@ The latest released version is *{webtoolsversion}* on *{webtoolsdate}*
 ''''
 [[anchor-paralleljstudio]]
 == ParallelJ Studio
-ParallelJ Studio is a modelling tool. It comes on top of ParallelJ (http://www.parallelj.org) and proposes batch/dataflow modelling
+[cols="a,8a"]
+|===
+|image:../resources/images/parallelj.png[height=64]
+|ParallelJ Studio is a modelling tool. It comes on top of ParallelJ (http://www.parallelj.org) and proposes batch/dataflow modelling
 and code generation on top of such models, as per a model driven approach. Also, for people who prefer to handle the source code directly
 ParallelJ comes with Source Code live validation and auto completion to increase the batch development productivity.
-
+|===
 The latest released version is *{paralleljversion}* on *{paralleljdate}*
 
 * *Documentation:* http://www.parallelj.org/xwiki/[http://www.parallelj.org/xwiki/]
@@ -75,10 +81,13 @@ The latest released version is *{paralleljversion}* on *{paralleljdate}*
 ''''
 [[anchor-i18ntools]]
 == I18NTools
-I18NTools is an tool that helps with internationalizing your applications. It proposes the application of an pure java 
+[cols="a,8a"]
+|===
+|image:../resources/images/i18ntools.jpg[height=64]
+|I18NTools is an tool that helps with internationalizing your applications. It proposes the application of an pure java 
 internationalization method, through the usage of Java Enumerations, thanks to source code refactoring and
 an editor for easier translation management.
-
+|===
 The latest released version is *{i18ntoolsversion}* on *{i18ntoolsdate}*
 
 * *Documentation:* http://github.com/awltech/eclipse-i18ntools/wiki[http://github.com/awltech/eclipse-i18ntools/wiki]
@@ -89,8 +98,11 @@ The latest released version is *{i18ntoolsversion}* on *{i18ntoolsdate}*
 ''''
 [[anchor-appprofiles]]
 == Application Profiles
-Application Profiles is a extensible framework that eases the creation of dynamized multi-projects applications.
-
+[cols="a,8a"]
+|===
+|image:../resources/images/eclipse.png[height=64]
+|Application Profiles is a extensible framework that eases the creation of dynamized multi-projects applications.
+|===
 The latest released version is *{applicationprofilesversion}* on *{applicationprofilesdate}*
 
 * *Documentation:* https://github.com/awltech/eclipse-appprofiles/wiki/_pages[https://github.com/awltech/eclipse-appprofiles/wiki/_pages]
@@ -102,9 +114,12 @@ The latest released version is *{applicationprofilesversion}* on *{applicationpr
 [[anchor-astvalidation]]
 == AST Validation Framework
 
-AST Validation Framework is a tool that takes the best of the AST API and the Eclipse workbench mechanisms, to propose an 
+[cols="a,8a"]
+|===
+|image:../resources/images/eclipse.png[height=64]
+|AST Validation Framework is a tool that takes the best of the AST API and the Eclipse workbench mechanisms, to propose an 
 extension-point based validation framework.
-
+|===
 The latest released version is *{astvalidationversion}* on *{astvalidationdate}*
 
 * *Documentation:* https://github.com/awltech/eclipse-ast-validation/wiki/Quick-Start-Guide[https://github.com/awltech/eclipse-ast-validation/wiki/Quick-Start-Guide]
@@ -115,8 +130,11 @@ The latest released version is *{astvalidationversion}* on *{astvalidationdate}*
 ''''
 [[anchor-clic]]
 == CLiC
-CLiC is a extensible framework for Command Line Interpretation in Eclipse
-
+[cols="a,8a"]
+|===
+|image:../resources/images/eclipse.png[height=64]
+|CLiC is a extensible framework for Command Line Interpretation in Eclipse
+|===
 The latest released version is *{clicversion}* on *{clicdate}*
 
 * *Documentation:* http://awltech.github.io/clic/getting-started.html[http://awltech.github.io/clic/getting-started.html]
@@ -127,9 +145,12 @@ The latest released version is *{clicversion}* on *{clicdate}*
 ''''
 [[anchor-gmfproperties]]
 == GMF Properties Views Framework
-This framework contains API and implementation to helps with management of GMF-based diagrams' properties views design, implementation
+[cols="a,8a"]
+|===
+|image:../resources/images/eclipse.png[height=64]
+|This framework contains API and implementation to helps with management of GMF-based diagrams' properties views design, implementation
 and refreshment.
-
+|===
 The latest released version is *{gmfpropertiesversion}* on *{gmfpropertiesdate}*
 
 * *Documentation:* https://github.com/awltech/GMFPropertiesViews/wiki[https://github.com/awltech/GMFPropertiesViews/wiki]
@@ -140,9 +161,11 @@ The latest released version is *{gmfpropertiesversion}* on *{gmfpropertiesdate}*
 ''''
 [[anchor-mylynnotifs]]
 == Mylyn Notification Framework
-
-This framework is the externalization of the notification framework that is implemented in Mylyn, to be useable in a standalone context.
-
+[cols="a,8a"]
+|===
+|image:../resources/images/eclipse.png[height=64]
+|This framework is the externalization of the notification framework that is implemented in Mylyn, to be useable in a standalone context.
+|===
 The latest released version is *{mylynnotifversion}* on *{mylynnotifdate}*
 
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/mylyn-notifications[http://eclipse.worldline.com/releases/kepler/mylyn-notifications]
@@ -151,10 +174,13 @@ The latest released version is *{mylynnotifversion}* on *{mylynnotifdate}*
 ''''
 [[anchor-optimus]]
 == Optimus
-Optimus is an agile Transformation Framework. It proposes a new way to handle EMF-based model transformations,
+[cols="a,8a"]
+|===
+|image:../resources/images/eclipse.png[height=64]
+|Optimus is an agile Transformation Framework. It proposes a new way to handle EMF-based model transformations,
 using requirements instead of predefined workflows. It also comes natively with a strong java generator,
 to provide a ready-to-use framework for developing code generators
-
+|===
 The latest released version is *{optimusversion}* on *{optimusdate}*
 
 * *Documentation:* https://github.com/awltech/eclipse-optimus/wiki[https://github.com/awltech/eclipse-optimus/wiki]
@@ -165,11 +191,14 @@ The latest released version is *{optimusversion}* on *{optimusdate}*
 ''''
 [[anchor-resourceselector]]
 == Resource Selector
-The Resource Selector is an extensible module that offers the possibility to select, 
+[cols="a,8a"]
+|===
+|image:../resources/images/eclipse.png[height=64]
+|The Resource Selector is an extensible module that offers the possibility to select, 
 through a user dialog box, any kind of resource from an Eclipse Project. It was initially used to display in the same dialog, 
 all types from a projects classpath as well as all the UML types from uml models located in the same project. (Implementation is
 available as a sample of the project.) 
-
+|===
 The latest released version is *{resourceselectorversion}* on *{resourceselectordate}*
 
 * *Documentation:* https://github.com/awltech/ResourceSelector/wiki[https://github.com/awltech/ResourceSelector/wiki]
