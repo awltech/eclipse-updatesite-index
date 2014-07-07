@@ -22,7 +22,7 @@
 |===
 |image:../resources/images/WLTechLogo.png[height=256]|image:../resources/images/Banner.png[height=256]
 |===
-The following page describes the Eclipse components that are built by the WLTech community.
+The following page describes the Eclipse components that are built by the http://www.worldline.com[Worldline]'s http://www.github.com/awltech[WLTech] community.
 
 For each component we are involved in,you will find a short description and links that head to the projects documentation and Update Sites.
 Some are nightly (binaries built on a nightly basis, through Continuous Integration), and some are stable and production-ready deliverables. 
