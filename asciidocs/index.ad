@@ -59,9 +59,9 @@ The latest released version is *{webtoolsversion}* on *{webtoolsdate}*
 * *Documentation:* https://github.com/awltech/webtools-tapestry/wiki/_pages[https://github.com/awltech/webtools-tapestry/wiki/_pages]
 
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/webtools-tapestry[http://eclipse.worldline.com/releases/kepler/webtools-tapestry]
+(You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1277887[me] into your workspace to install from Eclipse Marketplace...)  
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/webtools-tapestry[http://eclipse.worldline.com/nightly/webtools-tapestry]
 
-''''
 [[anchor-paralleljstudio]]
 == ParallelJ Studio
 [cols="a,8a"]
@@ -76,6 +76,7 @@ The latest released version is *{paralleljversion}* on *{paralleljdate}*
 * *Documentation:* http://www.parallelj.org/xwiki/[http://www.parallelj.org/xwiki/]
 
 * *Releases Update Site:* http://www.parallelj.org/repository/eclipse/latest/[http://www.parallelj.org/repository/eclipse/latest/]
+(You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1278058[me] into your workspace to install from Eclipse Marketplace...)
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/parallelj-studio[http://eclipse.worldline.com/nightly/parallelj-studio]
 
 ''''
@@ -93,6 +94,7 @@ The latest released version is *{i18ntoolsversion}* on *{i18ntoolsdate}*
 * *Documentation:* http://github.com/awltech/eclipse-i18ntools/wiki[http://github.com/awltech/eclipse-i18ntools/wiki]
 
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/i18ntools/1.1.0[http://eclipse.worldline.com/releases/kepler/i18ntools/1.1.0]
+(You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1639041[me] into your workspace to install from Eclipse Marketplace...)
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/i18ntools[http://eclipse.worldline.com/nightly/i18ntools]
 
 ''''
@@ -103,11 +105,12 @@ The latest released version is *{i18ntoolsversion}* on *{i18ntoolsdate}*
 |image:../resources/images/eclipse.png[height=64]
 |Application Profiles is a extensible framework that eases the creation of dynamized multi-projects applications.
 |===
-The latest released version is *{applicationprofilesversion}* on *{applicationprofilesdate}*
+The latest released version is *{applicationprofilesversion}* on *{applicationprofilesdate}* 
 
 * *Documentation:* https://github.com/awltech/eclipse-appprofiles/wiki/_pages[https://github.com/awltech/eclipse-appprofiles/wiki/_pages]
 
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/appprofiles[http://eclipse.worldline.com/releases/kepler/appprofiles]
+(You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1446364[me] into your workspace to install from Eclipse Marketplace...)
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/appprofiles[http://eclipse.worldline.com/nightly/appprofiles]
 
 ''''
@@ -125,6 +128,7 @@ The latest released version is *{astvalidationversion}* on *{astvalidationdate}*
 * *Documentation:* https://github.com/awltech/eclipse-ast-validation/wiki/Quick-Start-Guide[https://github.com/awltech/eclipse-ast-validation/wiki/Quick-Start-Guide]
 
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/jdt-ast-validation[http://eclipse.worldline.com/releases/kepler/jdt-ast-validation]
+(You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1202080[me] into your workspace to install from Eclipse Marketplace...)
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/jdt-ast-validation[http://eclipse.worldline.com/nightly/jdt-ast-validation]
 
 ''''
@@ -186,6 +190,7 @@ The latest released version is *{optimusversion}* on *{optimusdate}*
 * *Documentation:* https://github.com/awltech/eclipse-optimus/wiki[https://github.com/awltech/eclipse-optimus/wiki]
 
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/optimus[http://eclipse.worldline.com/releases/kepler/optimus]
+(You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1202061[me] into your workspace to install from Eclipse Marketplace...)
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/optimus[http://eclipse.worldline.com/nightly/optimus]
 
 ''''
