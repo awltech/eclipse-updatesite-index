@@ -62,6 +62,7 @@ The latest released version is *{webtoolsversion}* on *{webtoolsdate}*
 (You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1277887[me] into your workspace to install from Eclipse Marketplace...)  
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/webtools-tapestry[http://eclipse.worldline.com/nightly/webtools-tapestry]
 
+''''
 [[anchor-paralleljstudio]]
 == ParallelJ Studio
 [cols="a,8a"]
