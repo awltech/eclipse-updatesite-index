@@ -189,7 +189,7 @@ to provide a ready-to-use framework for developing code generators
 |===
 The latest released version is *{optimusversion}* on *{optimusdate}*
 
-* *Documentation:* https://github.com/awltech/eclipse-optimus/wiki[https://github.com/awltech/eclipse-optimus/wiki]
+* *Documentation:* http://eclipse.worldline.com/documentation/optimus/[http://eclipse.worldline.com/documentation/optimus/]
 
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/optimus[http://eclipse.worldline.com/releases/kepler/optimus]
 (You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1202061[me] into your workspace to install from Eclipse Marketplace...)
