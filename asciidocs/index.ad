@@ -28,7 +28,7 @@ The following page describes the Eclipse components that are built by a http://w
 For each component we are involved in,you will find a short description and links that head to the projects documentation and Update Sites.
 Some are nightly (binaries built on a nightly basis, through Continuous Integration), and some are stable and production-ready deliverables. 
 
-the source code of all the products and frameworks are available on Github on our https://github.com/awltech[WLTech Organization].
+The source code of all the products and frameworks are available on Github on our https://github.com/awltech[WLTech Organization].
 
 So make your choice! Happy browsing!
 
@@ -38,6 +38,7 @@ So make your choice! Happy browsing!
 === Products
 |===
 |<<anchor-webtools, Webtools for Tapestry>>|<<anchor-paralleljstudio, ParallelJ Studio>>|<<anchor-i18ntools, I18N Tools>>
+|<<anchor-asciidoctools, Asciidoc Tools>>||
 |===
 === Frameworks
 |===
@@ -100,6 +101,23 @@ The latest released version is *{i18ntoolsversion}* on *{i18ntoolsdate}*
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/i18ntools/1.1.0[http://eclipse.worldline.com/releases/kepler/i18ntools/1.1.0]
 (You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1639041[me] into your workspace to install from Eclipse Marketplace...)
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/i18ntools[http://eclipse.worldline.com/nightly/i18ntools]
+
+''''
+
+[[anchor-asciidoctools]]
+== Asciidoc Tools
+[cols="a,8a"]
+|===
+|image:../resources/images/asciidoctools.png[height=64]
+|AsciidocTools proposes an integration of the Asciidoc documentation tool in Eclipse. It proposes natively a feature to transform Maven projects
+into Asciidoc documentation projects (pom.xml update & project structure), and brings a Project Builder for live rendering and a split screen editor for Asciidoc. 
+|===
+The latest version is *0.1.0-SNAPSHOT*, built on a daily basis from *Jan 26, 2015*.
+
+* *Documentation:* http://eclipse.worldline.com/documentation/asciidoctools/[http://eclipse.worldline.com/documentation/asciidoctools/]
+
+* *Releases Update Site:* NOT YET AVAILABLE  
+* *Snapshot Update Site:* http://eclipse.worldline.com/nightly/asciidoctools/[http://eclipse.worldline.com/nightly/asciidoctools/] (You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2696608[me] into your workspace to install from Eclipse Marketplace...)
 
 ''''
 [[anchor-appprofiles]]
