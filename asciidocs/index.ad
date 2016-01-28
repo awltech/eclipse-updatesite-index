@@ -109,7 +109,7 @@ The latest released version is *{i18ntoolsversion}* on *{i18ntoolsdate}*
 [cols="a,8a"]
 |===
 |image:../resources/images/asciidoctools.png[height=64]
-|AsciidocTools proposes an integration of the Asciidoc documentation tool in Eclipse. It proposes natively a feature to transform Maven projects
+|Asciidoc Tools proposes an integration of the Asciidoc documentation tool in Eclipse. It proposes natively a feature to transform Maven projects
 into Asciidoc documentation projects (pom.xml update & project structure), and brings a Project Builder for live rendering and a split screen editor for Asciidoc. 
 |===
 The latest version is *0.1.0-SNAPSHOT*, built on a daily basis from *Jan 26, 2015*.
