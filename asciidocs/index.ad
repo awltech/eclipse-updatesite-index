@@ -1,3 +1,4 @@
+:last-update-label!:
 :ApplicationProfiles Version: 1.0.1
 :ApplicationProfiles Date: May 22, 2015
 :ASTValidation Version: 1.1.1
@@ -234,5 +235,3 @@ The latest released version is *{resourceselectorversion}* on *{resourceselector
 
 * *Releases Update Site:* http://eclipse.worldline.com/releases/kepler/resourceselector[http://eclipse.worldline.com/releases/kepler/resourceselector]
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/resourceselector[http://eclipse.worldline.com/nightly/resourceselector]
-
-''''
