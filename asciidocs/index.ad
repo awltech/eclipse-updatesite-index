@@ -39,16 +39,31 @@ So make your choice! Happy browsing!
 == Contents
 
 === Products
-|===
-|<<anchor-webtools, Webtools for Tapestry>>|<<anchor-paralleljstudio, ParallelJ Studio>>|<<anchor-i18ntools, I18N Tools>>
-|<<anchor-asciidoctools, Asciidoc Tools>>||
-|===
+
+<<anchor-webtools, Webtools for Tapestry>>
+
+<<anchor-paralleljstudio, ParallelJ Studio>>
+
+<<anchor-i18ntools, I18N Tools>>
+
+<<anchor-asciidoctools, Asciidoc Tools>>
+
 === Frameworks
-|===
-|<<anchor-appprofiles, Application Profiles Framework>>|<<anchor-astvalidation, AST Validation Framework>>|<<anchor-clic, CLiC>>
-|<<anchor-gmfproperties, GMF Properties Framework>>|<<anchor-mylynnotifs, Mylyn Notifications Framework>>|<<anchor-optimus, Optimus Framework>>
-|<<anchor-resourceselector, Resource Selector Framework>>||
-|===
+
+<<anchor-appprofiles, Application Profiles Framework>>
+
+<<anchor-astvalidation, AST Validation Framework>>
+
+<<anchor-clic, CLiC>>
+
+<<anchor-gmfproperties, GMF Properties Framework>>
+
+<<anchor-mylynnotifs, Mylyn Notifications Framework>>
+
+<<anchor-optimus, Optimus Framework>>
+
+<<anchor-resourceselector, Resource Selector Framework>>
+
 ''''
 
 [[anchor-webtools]]
