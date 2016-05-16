@@ -19,8 +19,8 @@
 :ResourceSelector Date: Oct 08, 2013
 :WebTools Version: 1.2.1
 :WebTools Date: Feb 17, 2014
-:AsciidocTools Version: 0.1.0
-:AsciidocTools Date: Jan 28, 2016
+:AsciidocTools Version: 0.2.0
+:AsciidocTools Date: May 16, 2016
 :title: AWLTech's Eclipse Update Site
 
 |===
@@ -134,7 +134,7 @@ The latest released version is *{asciidoctoolsversion}* on *{asciidoctoolsdate}*
 
 * *Documentation:* http://eclipse.worldline.com/documentation/asciidoctools/[http://eclipse.worldline.com/documentation/asciidoctools/]
 
-* *Releases Update Site:* http://eclipse.worldline.com/releases/asciidoctools/0.1.0/[http://eclipse.worldline.com/releases/asciidoctools/0.1.0/] (You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2696608[me] into your workspace to install from Eclipse Marketplace...)
+* *Releases Update Site:* http://eclipse.worldline.com/releases/asciidoctools/0.2.0/[http://eclipse.worldline.com/releases/asciidoctools/0.2.0/] (You can also drag http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2696608[me] into your workspace to install from Eclipse Marketplace...)
 * *Snapshot Update Site:* http://eclipse.worldline.com/nightly/asciidoctools/[http://eclipse.worldline.com/nightly/asciidoctools/]
 
 ''''
